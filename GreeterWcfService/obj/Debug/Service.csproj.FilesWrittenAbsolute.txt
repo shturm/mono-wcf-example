@@ -1,0 +1,5 @@
+/home/alx/src/WCF/GreeterWcfService/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alx/src/WCF/GreeterWcfService/bin/Debug/GreeterWcfService.dll.mdb
+/home/alx/src/WCF/GreeterWcfService/bin/Debug/GreeterWcfService.dll
+/home/alx/src/WCF/GreeterWcfService/obj/Debug/GreeterWcfService.dll
+/home/alx/src/WCF/GreeterWcfService/obj/Debug/GreeterWcfService.dll.mdb

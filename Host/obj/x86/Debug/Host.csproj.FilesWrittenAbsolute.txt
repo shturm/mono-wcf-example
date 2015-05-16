@@ -1,0 +1,7 @@
+/home/alx/src/WCF/Host/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alx/src/WCF/Host/bin/Debug/Host.exe.mdb
+/home/alx/src/WCF/Host/bin/Debug/Host.exe
+/home/alx/src/WCF/Host/obj/x86/Debug/Host.exe
+/home/alx/src/WCF/Host/obj/x86/Debug/Host.exe.mdb
+/home/alx/src/WCF/Host/bin/Debug/GreeterWcfService.dll
+/home/alx/src/WCF/Host/bin/Debug/GreeterWcfService.dll.mdb

@@ -1,0 +1,21 @@
+﻿<Properties>
+  <StartupItems>
+    <String>Host/Host.csproj</String>
+    <String>Client/Client.csproj</String>
+  </StartupItems>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Host/Program.cs">
+    <Files>
+      <File FileName="Host/Program.cs" Line="23" Column="2" />
+      <File FileName="Client/Program.cs" Line="10" Column="3" />
+      <File FileName="GreeterWcfService/GreeterWcfService.cs" Line="10" Column="2" />
+      <File FileName="GreeterWcfService/IGreeterWcfService.cs" Line="12" Column="1" />
+      <File FileName="Client/MyServiceClient.cs" Line="13" Column="3" />
+      <File FileName="Client/IGreeterWcfService.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
