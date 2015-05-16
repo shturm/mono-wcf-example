@@ -1,7 +1,7 @@
 # Mono WCF example
 
 Basic example of WCF Services with Mono. WCF is *Windows Communication Foundation*.
-![Mono WCF example](https://github.com/shturm/mono-wcf-example/mono-wcf.png)
+![Mono WCF example](https://raw.githubusercontent.com/shturm/mono-wcf-example/master/mono-wcf.png)
 Some terminology explained:
 * `Service` - class that does business logic. .NET considers a class as a WCF service when inherits from a
 * `Service Contract` - interface annotated with `ServiceContract` attribute and each exposed method with `OperationContract` attribute. Those are available in the `System.ServiceModel` assembly and namespace.
